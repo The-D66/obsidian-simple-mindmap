@@ -26,7 +26,8 @@
         "vue": "^3.3.4"
     },
     "dependencies": {
-        "@toast-ui/editor": "^3.2.2",
+        "@toast-ui/editor": "^3.2.2", 
+        "@codemirror/view": "^0.19.0",
         "less": "^4.2.0",
         "lodash": "^4.17.21",
         "mitt": "^3.0.1",
